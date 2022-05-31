@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @My-Summerice
+- 👋 Hi, I’m summerice
 - 👀 I’m interested in golang
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning many kinds of skills
+- 💞️ I’m looking to collaborate on learning golang or making friends
+- 📫 QQ:1146494446
 
 <!---
 My-Summerice/My-Summerice is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
